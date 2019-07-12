@@ -1,0 +1,33 @@
+ 
+body {
+	background-color: lightgrey;
+}
+
+
+h1{ 
+	text-shadow: 2px 2px 5px red; 
+}
+
+
+a:link, a:visited{
+  background-color: red;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: blue;
+}
+
+#para{width: 1150px;
+ height: 200px;
+ border: solid 20px black;
+ margin: 60px auto;
+ border-radius: 0%;
+ background-color: beige;text-shadow: 2px 2px 5px blue;}
+
+#links{text-align: center;}
+l
