@@ -18,6 +18,9 @@ a:link, a:visited{
   display: inline-block;
 }
 
+a:hover, a:active {
+  background-color: blue;
+}
 
 
 #para{width: 1150px;
